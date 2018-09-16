@@ -1,0 +1,22 @@
+{
+  "name": "first_node_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ut-hash/first_node_project.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ut-hash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ut-hash/first_node_project/issues"
+  },
+  "homepage": "https://github.com/ut-hash/first_node_project#readme"
+}
