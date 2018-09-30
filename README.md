@@ -21,3 +21,6 @@ When you are providing the entire new update with features that are not compatib
 'npm install' is the command that is used to download all the dependencies listed in package.json file under node_modules folder. 
 
 If you want to install a specific dependency in the project, you can use npm install {project name}. This will add a entry in the dependecies section inside package.json and download the dependency in the node_modules folder.
+
+If you want to add only development dependency then use below command.
+'npm install {package} --save-dev'. This will download the project under node_modules folder and adds the development dependencies with version in the package.json

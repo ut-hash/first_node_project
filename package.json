@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ut-hash/first_node_project/issues"
   },
-  "homepage": "https://github.com/ut-hash/first_node_project#readme"
+  "homepage": "https://github.com/ut-hash/first_node_project#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
 }
