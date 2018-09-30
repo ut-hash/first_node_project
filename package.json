@@ -21,5 +21,8 @@
   "homepage": "https://github.com/ut-hash/first_node_project#readme",
   "dependencies": {
     "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
   }
 }
